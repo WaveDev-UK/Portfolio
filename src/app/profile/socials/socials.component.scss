@@ -1,0 +1,20 @@
+@media (max-width: 768px) {
+    .section {
+        margin-right: auto;
+        padding-left: 30%;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .section {
+        margin-right: auto;
+        padding-left: 45.2%;
+    }
+}
+
+
+.fa-brands {
+    font-size: 2rem;
+    padding-top: 23%
+}

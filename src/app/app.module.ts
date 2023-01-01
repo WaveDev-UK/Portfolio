@@ -26,7 +26,7 @@ const routes: Routes = [
     initialNavigation: 'enabled'
 }),
     ProfileModule,
-    HttpClientModule
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
